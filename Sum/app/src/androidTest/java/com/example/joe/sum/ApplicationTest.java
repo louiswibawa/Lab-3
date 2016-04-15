@@ -29,7 +29,7 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
             int i = 2;
             int j = 32;
             int y = mainActivity.sum(i,j);
-    
+
             assertEquals(34, y);
 
         }
